@@ -1,7 +1,7 @@
 # Cronômetro Python utilizando a biblioteca Tkinter para GUI
 
 <div align='center'>
-  <img src="https://user-images.githubusercontent.com/95941206/197854591-1bdc3df7-db98-4181-bb18-9a763ec5d1d3.png" width='500px'/>
+  <img src="https://user-images.githubusercontent.com/95941206/197858292-38a8c8c2-90d9-4c56-b74f-b22139817077.png" width='500px'/>
 </div><br>
 
 <p><b>Desenvolvido utilizando Python e a biblioteca Tkinter para criar uma Interface Gráfica para o usuário</b></p>
